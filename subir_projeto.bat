@@ -1,6 +1,6 @@
 @echo off
 set PROJETO=MercadoLivre_Facol
-set REPO=https://github.com/SEU-USUARIO/MercadoLivre_Facol.git
+set REPO=https://github.com/202427640004-design/MercadoLivre_Facol./blob/main/README.md
 
 cd %PROJETO%
 
